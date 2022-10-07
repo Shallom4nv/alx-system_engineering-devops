@@ -1,1 +1,1 @@
-Change command
+comman to print current user
